@@ -1,0 +1,14 @@
+C:\Users\0201392321019\Desktop\atividade-contabancaria\bin\Debug\net8.0\atividade-contabancaria.exe
+C:\Users\0201392321019\Desktop\atividade-contabancaria\bin\Debug\net8.0\atividade-contabancaria.deps.json
+C:\Users\0201392321019\Desktop\atividade-contabancaria\bin\Debug\net8.0\atividade-contabancaria.runtimeconfig.json
+C:\Users\0201392321019\Desktop\atividade-contabancaria\bin\Debug\net8.0\atividade-contabancaria.dll
+C:\Users\0201392321019\Desktop\atividade-contabancaria\bin\Debug\net8.0\atividade-contabancaria.pdb
+C:\Users\0201392321019\Desktop\atividade-contabancaria\obj\Debug\net8.0\atividade-contabancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392321019\Desktop\atividade-contabancaria\obj\Debug\net8.0\atividade-contabancaria.AssemblyInfoInputs.cache
+C:\Users\0201392321019\Desktop\atividade-contabancaria\obj\Debug\net8.0\atividade-contabancaria.AssemblyInfo.cs
+C:\Users\0201392321019\Desktop\atividade-contabancaria\obj\Debug\net8.0\atividade-contabancaria.csproj.CoreCompileInputs.cache
+C:\Users\0201392321019\Desktop\atividade-contabancaria\obj\Debug\net8.0\atividade-contabancaria.dll
+C:\Users\0201392321019\Desktop\atividade-contabancaria\obj\Debug\net8.0\refint\atividade-contabancaria.dll
+C:\Users\0201392321019\Desktop\atividade-contabancaria\obj\Debug\net8.0\atividade-contabancaria.pdb
+C:\Users\0201392321019\Desktop\atividade-contabancaria\obj\Debug\net8.0\atividade-contabancaria.genruntimeconfig.cache
+C:\Users\0201392321019\Desktop\atividade-contabancaria\obj\Debug\net8.0\ref\atividade-contabancaria.dll
